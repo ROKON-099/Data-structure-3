@@ -1,5 +1,5 @@
 
                                        
 
-_______________________________________________some  beginer level basic C++ problem (array+class) ___________________________________________________
+_______________________________________________some  beginer level basic C++ problem (array+class) 
 
